@@ -2,4 +2,4 @@
 
 Open by clicking on *index.html*
 
-https://pratsins.github.io/
+https://pratsins.github.io/Solar-System-CSS-animation/
